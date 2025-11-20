@@ -1,0 +1,11 @@
+# Build artifacts
+/build/
+
+# Editor/OS files
+.DS_Store
+*.swp
+*.swo
+
+# clangd/IDE caches
+.cache/
+.clangd/
